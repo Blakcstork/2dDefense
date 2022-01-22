@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"Speed","value":{"$content":10.0,"$type":"System.Single"},"$version":"A"},{"name":"IsHit","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"Class","value":{"$content":"Bullet","$type":"MyType+Unit"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"Speed","value":{"$content":-10.0,"$type":"System.Single"},"$version":"A"},{"name":"IsHit","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"Class","value":{"$content":"Bullet","$type":"MyType+Unit"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!114 &8087910384142922566
 MonoBehaviour:
